@@ -13,5 +13,7 @@
 <template>
 
     <!-- add code here -->
+     <img :src="myImg" :width="width" :height="height"/>
+
    
 </template>
